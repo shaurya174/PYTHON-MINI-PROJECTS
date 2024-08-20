@@ -13,12 +13,26 @@ Small Projects On Which I have Worked On when learning PYTHON
             ii) Enter the desired length for the password.
             iii) The script will output a randomly generated password of the specified length.
 3) Banking System -> banking_system.py
-   DESCRIPTION -> This project is a simple banking system simulation with basic functionalities like crediting and debiting an account. It includes a parent 
-                     class Account and a child class Bank that extends Account.
+   DESCRIPTION -> This project is a simple banking system simulation with basic functionalities like crediting and 
+                  debiting an account. It includes a parent class Account and a child class Bank that extends Account.
    USAGE -> i) Run the script.
             ii) Enter your personal information including name, account number, password, and initial balance.
             iii) The program will greet you and display available services.
             iv) Choose a service by entering the corresponding number:
+4) Snake Water Gun Game -> snake_water_gun.py
+   DESCRIPTION -> This is a simple command-line game where you play against a computer opponent, Mr. NOOB MASTER69. 
+                  The objective is to score 10 points before the computer does. The game is based on the classic 
+                  Snake, Water, Gun game with specific rules and commands.
+   USAGE -> i)Run the script.
+            ii)The game will provide instructions and rules.
+            iii)Use the following commands to interact with the game:
+                 -> S to start the game.
+                 -> E to end the game.
+                 -> C to check the score.
+            iv) During gameplay, enter your choice (Snake, Water, or Gun) and see how it matches up against Mr. NOOB MASTER69's choice.
+                The first player to reach 10 points wins.
+
+
                   1 -> to print the account balance.
                   2 -> to credit an amount to your account.
                   3 ->  to debit an amount from your account.
