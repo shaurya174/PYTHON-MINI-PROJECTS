@@ -31,6 +31,16 @@ Small Projects On Which I have Worked On when learning PYTHON
                  -> C to check the score.
             iv) During gameplay, enter your choice (Snake, Water, or Gun) and see how it matches up against Mr. NOOB MASTER69's choice.
                 The first player to reach 10 points wins.
+5) Hangaman Game -> hangman.py
+   DESCRIPTION -> This is a classic Hangman game where you try to guess a hidden word by suggesting one letter at a time. The game is 
+                  played through the command line, and the objective is to guess the word before the Hangman figure is fully drawn.
+   USAGE ->i) Run the Script: Start the game by running the script.
+           ii) Game Instructions: The game will display the rules and instructions.
+           iii) Guess the Word: Enter one letter at a time to guess the hidden word.
+           iv) Game Progress: Each wrong guess adds a part to the Hangman figure. You have 6 chances before the game is over.
+           v) Win/Loss: You win if you guess the word correctly before the figure is fully drawn. Otherwise, you lose.
+   Enjoy playing Hangman!
+
 
 
                   1 -> to print the account balance.
