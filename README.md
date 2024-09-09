@@ -39,13 +39,20 @@ Small Projects On Which I have Worked On when learning PYTHON
            iii) Guess the Word: Enter one letter at a time to guess the hidden word.
            iv) Game Progress: Each wrong guess adds a part to the Hangman figure. You have 6 chances before the game is over.
            v) Win/Loss: You win if you guess the word correctly before the figure is fully drawn. Otherwise, you lose.
-   Enjoy playing Hangman!
+   Enjoy playing Hangman!              
+   6) Rock Paper Scissor Game -> This is a simple Rock-Paper-Scissors game where you play against the computer. The first player to 
+                                 reach 10 points wins.
+    
+   HOW TO PLAY :
+   i) Start the Game: Run the script to begin.
+   ii) Input Commands:
+           a)Enter S to start a round and choose between "Rock," "Paper," or "Scissor."
+           b)Enter C to check the current score.
+           c)Enter E to end the game.
+   iii) Scoring Rules:
+           a) Rock beats Scissor.
+           b) Paper beats Rock.
+           c) Scissor beats Paper.
+           d) If both players choose the same option, it's a draw, and no points are awarded.
+   iv) Winning Condition: The first player to reach 10 points wins the game.
 
-
-
-                  1 -> to print the account balance.
-                  2 -> to credit an amount to your account.
-                  3 ->  to debit an amount from your account.
-                  4 -> to quit the program.
-
-   
