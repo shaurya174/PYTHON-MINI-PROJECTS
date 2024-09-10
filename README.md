@@ -55,4 +55,17 @@ Small Projects On Which I have Worked On when learning PYTHON
            c) Scissor beats Paper.
            d) If both players choose the same option, it's a draw, and no points are awarded.
    iv) Winning Condition: The first player to reach 10 points wins the game.
+   7) Slot Machine -> Welcome to the Slot Machine game! Test your luck and try to win big by spinning the reels.
+      HOW TO PLAY:
+      1) Start the Game: Run the script to begin.
+      2) Input Initial Balance: Enter the amount of money you want to start with.
+      3) Spin the Reels:
+          i) Enter Y to spin and place a bet for that round.
+          ii) Enter N to end the game.
+          iii) Enter C to check your current balance and stats.
+      4) Winning and Losing:
+          i)If you win (same symbols on all three reels or the same combination as the computer), your bet amount is doubled and added 
+            to your balance.
+          ii) If you lose, your bet amount is deducted from your balance.
+      5) End the Game: The game will end when you choose to stop or if you run out of money.
 
