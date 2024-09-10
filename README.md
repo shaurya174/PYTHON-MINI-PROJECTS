@@ -40,7 +40,7 @@ Small Projects On Which I have Worked On when learning PYTHON
            iv) Game Progress: Each wrong guess adds a part to the Hangman figure. You have 6 chances before the game is over.
            v) Win/Loss: You win if you guess the word correctly before the figure is fully drawn. Otherwise, you lose.
    Enjoy playing Hangman!              
-   6) Rock Paper Scissor Game -> This is a simple Rock-Paper-Scissors game where you play against the computer. The first player to 
+6) Rock Paper Scissor Game -> This is a simple Rock-Paper-Scissors game where you play against the computer. The first player to 
                                  reach 10 points wins.
     
    HOW TO PLAY :
@@ -55,7 +55,7 @@ Small Projects On Which I have Worked On when learning PYTHON
            c) Scissor beats Paper.
            d) If both players choose the same option, it's a draw, and no points are awarded.
    iv) Winning Condition: The first player to reach 10 points wins the game.
-   7) Slot Machine -> Welcome to the Slot Machine game! Test your luck and try to win big by spinning the reels.
+7) Slot Machine -> Welcome to the Slot Machine game! Test your luck and try to win big by spinning the reels.
       HOW TO PLAY:
       1) Start the Game: Run the script to begin.
       2) Input Initial Balance: Enter the amount of money you want to start with.
