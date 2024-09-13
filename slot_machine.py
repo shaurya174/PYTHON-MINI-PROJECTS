@@ -88,10 +88,12 @@ def slot_machine():
                 print("\n")
                 print("You Won This Round!!")
                 user_balance+=(2*round_amount)
+                gained_amount+=round_amount
                 print("Current Balance: "+str(user_balance))
             else:
                 print("\n")
                 print("Sorry!You Lost This Round.")
+                loss_amount+=round_amount
                 print("Current Balance: "+str(user_balance))
         else:
             print("Invalid Choice!!")
