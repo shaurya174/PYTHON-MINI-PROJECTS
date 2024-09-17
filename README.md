@@ -68,4 +68,15 @@ Small Projects On Which I have Worked On when learning PYTHON
             to your balance.
           ii) If you lose, your bet amount is deducted from your balance.
       5) End the Game: The game will end when you choose to stop or if you run out of money.
-
+8) Tic-Tac-Toe -> Welcome to the classic Tic-Tac-Toe game! Challenge your friends and see who can get three in a row first.
+       How to Play:
+       1) Start the Game: Run the script to begin.
+       2) Enter Player Names: Input names for Player 1 and Player 2.
+       3) Play the Game:
+           i) Players take turns entering their moves (X or O) by choosing a position from 1 to 9.
+           ii) The game board is updated after each move.
+       4) Winning and Drawing:
+          i) The game checks for a win condition after each move. If a player gets three in a row (horizontally, vertically, or 
+          diagonally), they win.
+          ii) If the board is full and there is no winner, the game ends in a draw.
+       5) End the Game: The game will end when there's a winner or a draw.
