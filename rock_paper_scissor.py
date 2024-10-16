@@ -65,3 +65,5 @@ def rock_paper_scissor():
             print("Invalid Statement!!!")
             print("Try Again!!!")
             continue
+
+rock_paper_scissor()
